@@ -12,10 +12,10 @@ This Projects is developed by Forida Parven Anne
 9. 
 
 ## Vercel Link
- https://shikho-learning-app-server.vercel.app
+ https://chef-krunch-server.vercel.app
 
 ## Live Site Link
-https://shikho-app.web.app        
+      
 
 
 ## Github Link
