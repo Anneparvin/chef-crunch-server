@@ -25,6 +25,13 @@ app.get('/chefcards/:id', (req, res) => {
     const selectedRecipe = chefcards.find(chefcards => chefcards.id === id);
     console.log(selectedRecipe);
 })
+
+app.get('/chefrecipies/:recipeId', (req,res)=> {
+    const id = req.params.id;
+    const categoryRecipe = chefcards.filter(chefcards => chefcards.recipeId === id);
+    console.log(categoryRecipe);
+})
+
 app.listen(port, ()=> {
     console.log(`chef krunch is running on port: ${port}`)
 })
