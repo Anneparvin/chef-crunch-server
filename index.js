@@ -16,6 +16,15 @@ app.get('/chefcards', (req,res) => {
     res.send(chefcards);
 })
 
+app.get('/chefrecipies', (req,res) => {
+    res.send(chefrecipies);
+})
+
+app.get('/chefcards/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedRecipe = chefcards.find(chefcards => chefcards.id === id);
+    console.log(selectedRecipe);
+})
 app.listen(port, ()=> {
     console.log(`chef krunch is running on port: ${port}`)
 })
