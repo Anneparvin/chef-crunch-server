@@ -1,0 +1,222 @@
+[
+    {
+
+      
+      "recipeId": 11,
+      "Chef Picture": "https://i.ibb.co/B6PyTPW/chef1.jpg",
+      "Chef Name": "Kishar Chowdhury",
+      "Years of experience": "5 years",
+      "Numbers of recipes": "100",
+      "Likes": "1 million",
+      "recipe name": "elish mach dim bhuna",
+      "ingredients": "elish,tomato,red chilli,soresa,mustered oil",
+      "cooking method": "Marinate Hilsa roe and fish chunks with ½ Tsp. of Turmeric powder, and also ½ Tsp. of salt.
+      Finely chop two onions and make a paste of another.
+      Make a paste of the Tomato as well.",
+      "rating": "5"
+    },
+    {
+      "recipeId": 11,
+      "Chef Picture": "https://i.ibb.co/B6PyTPW/chef1.jpg",
+      "Chef Name": "Kishar Chowdhury",
+      "Years of experience": "5 years",
+      "Numbers of recipes": "100",
+      "Likes": "1.1 million",
+      "recipe name": "dal bhuna",
+      "ingredients": "Yellow moong, garam masala, cinnamon, garlic, turmeric",
+      "cooking method": "Toasting the lentils first provides a nutty aroma which complements the spices beautifully, while tempering the delicious ghee with chillies and garlic results in an unctuous finish. Vegetable ghee is available if you wish to keep the dish vegan.",
+      "rating": "5"
+    },
+    {
+      "recipeId": 11,
+      "Chef Picture": "https://i.ibb.co/B6PyTPW/chef1.jpg",
+      "Chef Name": "Kishar Chowdhury",
+      "Years of experience": "5 years",
+      "Numbers of recipes": "100",
+      "Likes": "1 million",
+      "recipe name": "chotpoti",
+      "ingredients": "chotpoti motor, potato,chilli,chat powder,onion",
+      "cooking method": "2 dried red chilies · 1 teaspoon whole cumin seeds · 1 teaspoon whole coriander seeds · 1/2 teaspoon panch phoron · 1 teaspoon black salt · 3/4 cup",
+      "rating": "5"
+    },
+    {
+        "recipeId": 22,
+        "Chef Picture": "https://i.ibb.co/PThQNNN/chef3.jpg",
+        "Chef Name": "Rashedul Hasan",
+        "Years of experience": "3 years",
+        "Numbers of recipes": "167",
+        "Likes": "50k",
+        "recipe name": "chicken biriyani",
+        "ingredients": "garam masala, Powder together very small piece of nutmeg, 5 cardamoms, ½ tsp pepper, 5 cloves, 1 to 2 inch cinnamon",
+        "cooking method": "Traditional chicken biryani is made by layering marinated chicken at the bottom of a pot followed by another layer of par cooked rice, herbs",
+        "rating": "5"
+      },
+    {
+        "recipeId": 22,
+        "Chef Picture": "https://i.ibb.co/PThQNNN/chef3.jpg",
+        "Chef Name": "Rashedul Hasan",
+        "Years of experience": "3 years",
+        "Numbers of recipes": "167",
+        "Likes": "50k",
+        "recipe name": "Biryani",
+        "ingredients": "1 cup boiled basmati rice, 600 gm chicken , 1/2 teaspoon mint leaves ,1 tablespoon garam masala powder,salt",
+        "cooking method": "This Chicken Biryani recipe is prepared using basmati rice, chicken thighs, hung curd, onion, tomato, milk, saffron and a melange of whole and ",
+        "rating": "5"
+      },
+    {
+        "recipeId": 22,
+        "Chef Picture": "https://i.ibb.co/PThQNNN/chef3.jpg",
+        "Chef Name": "Rashedul Hasan",
+        "Years of experience": "3 years",
+        "Numbers of recipes": "167",
+        "Likes": "50k",
+        "recipe name": "Hydrabadi biriyani",
+        "ingredients": "To a mixing bowl, add 2/3 cup (165 ml) yogurt, ¾ teaspoon salt, 1 to 1½ teaspoon red chili powder, 1 to 1½ teaspoon biryani masala ¼",
+        "cooking method": "Biryani is prepared by layering parboiled basmati rice, marinated or cooked meat/chicken, fried onions, fresh herbs, lemon juice, saffron water,",
+        "rating": "4.5"
+      },
+      {
+        "recipeId": 33,
+        "Chef Picture": "https://i.ibb.co/rQMfpMX/chef4.jpg",
+        "Chef Name": "Jahida Begum",
+        "Years of experience": "10 years",
+        "Numbers of recipes": "500",
+        "Likes": "2 million",
+        "recipe name": "Bhuna Khichuri",
+        "ingredients": " 2 cups Gobindobhog Chal (Small grain rice),1 large Onion,500 g shona moog dal (small-grained moong), ‍500 g aged gobindobhog rice‍, 320 g Bengali-style ghee (see notes)‍, 65 g cashew nuts ",
+        "cooking method": "Bhuna khichuri recipe is an exemplary moong dal khichuri which is immensely popular in Bangladesh, West Bengal and few other parts of north east India. The texture of bhuna khichuri is completely different from other khichuri recipes. It is dry and grainy in texture exactly like pulao with extraordinary taste and flavour. In this preparation, gobindobhog chaal (Small grain rice) and shona moong dal (Split yellow lentils) are fried together and then cooked in hot water with some specific spices and fried onions. ",
+        "rating": "5"
+      },
+      {
+        "recipeId": 33,
+        "Chef Picture": "https://i.ibb.co/rQMfpMX/chef4.jpg",
+        "Chef Name": "Jahida Begum",
+        "Years of experience": "10 years",
+        "Numbers of recipes": "500",
+        "Likes": "2 million",
+        "recipe name": "Morog Polao",
+        "ingredients": "½ cup cooking oil, 1 medium onion, poppy seed, rice, garam masala",
+        "cooking method": "In a bowl, prepare the chicken marinade by whisking together yogurt, coriander powder, red chili powder, 1/2 tsp salt, and pulao seasoning mix. Mix in a splash of water. Add the chicken to the marinade, combine well, and let rest for 30 minutes.",
+        "rating": "5"
+      },
+      {
+        "recipeId": 33,
+        "Chef Picture": "https://i.ibb.co/rQMfpMX/chef4.jpg",
+        "Chef Name": "Jahida Begum",
+        "Years of experience": "10 years",
+        "Numbers of recipes": "500",
+        "Likes": "2 million",
+        "recipe name": "Kacchi Biriyani",
+        "ingredients": "Meat (গোস্ত), 2 KG Black Pepper (গোল মরিচ), 1.5 tsp. Shahi Jeera (শাহী জিরা), mutton, rice",
+        "cooking method": "1Wash & clean the meat pieces. Drain water well. 2Make biryani spices mix. For this in a grinder take star anise, black cardamom.",
+        "rating": "5"
+      },
+      {
+        "recipeId": 44,
+        "Chef Picture": "https://i.ibb.co/hgtK5xs/chef2.jpg",
+        "Chef Name": "Nayeem Ashraf",
+        "Years of experience": "4 years",
+        "Numbers of recipes": "300",
+        "Likes": "30k",
+        "recipe name": "Chingri malai curry",
+        "ingredients": "prawns and coconut milk, along with ghee or mustard oil, onions, turmeric powder, chopped green chilli, garlic paste, and ginger paste flavoured with spices",
+        "cooking method": "he hard shells of the prawns are removed and marinated with sesame seeds and posto seeds (which are made into a paste). The prawns are then fried in hot oil along with onion, ginger, garlic, and stirred with turmeric and sugar and salt and coconut milk for a few minutes.",
+        "rating": "5"
+      },
+      {
+        "recipeId": 44,
+        "Chef Picture": "https://i.ibb.co/hgtK5xs/chef2.jpg",
+        "Chef Name": "Nayeem Ashraf",
+        "Years of experience": "4 years",
+        "Numbers of recipes": "300",
+        "Likes": "30k",
+        "recipe name": "Pangasius bhuna",
+        "ingredients": "pangas,oil,salt,fried onion,chilli",
+        "cooking method": "try the onion fried, took all the spices and marinate it with pangash fish.",
+        "rating": "5"
+      },
+      {
+        "recipeId": 44,
+        "Chef Picture": "https://i.ibb.co/hgtK5xs/chef2.jpg",
+        "Chef Name": "Nayeem Ashraf",
+        "Years of experience": "4 years",
+        "Numbers of recipes": "300",
+        "Likes": "30k",
+        "recipe name": "Nakshi Pitha",
+        "ingredients": "rice flower, salt, sugar syrap, oil, dice",
+        "cooking method": "it is made by rice,took the rice in salt marinate and let it dise. take the syrap into it.",
+        "rating": "5"
+      },
+      {
+        "recipeId": 55,
+        "Chef Picture": "https://i.ibb.co/N3hjvyW/Julal-Syed.webp",
+        "Chef Name": "Julal Syed",
+        "Years of experience": "15 years",
+        "Numbers of recipes": "1000",
+        "Likes": "10 million",
+        "recipe name": "Beef Curry",
+        "ingredients": "Beef, oil, spices, fried onion, yogurt",
+        "cooking method": "marinat it with spices and took it some time then try it on fire.",
+        "rating": "5"
+      },
+      {
+        "recipeId": 55,
+        "Chef Picture": "https://i.ibb.co/N3hjvyW/Julal-Syed.webp",
+        "Chef Name": "Julal Syed",
+        "Years of experience": "15 years",
+        "Numbers of recipes": "1000",
+        "Likes": "10 million",
+        "recipe name": "Borhani",
+        "ingredients": "Borhani is made from sour doi, green chilli, mustard seeds, black salt, coriander and mint",
+        "cooking method": "borhani made by milk and mix with coriender mint.",
+        "rating": "5"
+      },
+      {
+        "recipeId": 55,
+        "Chef Picture": "https://i.ibb.co/N3hjvyW/Julal-Syed.webp",
+        "Chef Name": "Julal Syed",
+        "Years of experience": "15 years",
+        "Numbers of recipes": "1000",
+        "Likes": "10 million",
+        "recipe name": "Gorur Kolija Bhuna",
+        "ingredients": "beef kolija, fried onion, spices, chilli, salt",
+        "cooking method": "marinate for 30 minutes with all spices, took that on fire and after 1 hour it will be ready",
+        "rating": "5"
+      },
+      {
+        "recipeId": 66,
+        "Chef Picture": "https://i.ibb.co/GHLQCbn/salah-Uddin.jpg",
+        "Chef Name": "salah Uddin",
+        "Years of experience": "9 years",
+        "Numbers of recipes": "678",
+        "Likes": "6 million",
+        "recipe name": "jilapi",
+        "ingredients": "Made with flour, suger syrup, oil, salt, beson",
+        "cooking method": "Traditionally, the jalebi recipe is made with a batter of all purpose flour, gram flour (besan), baking soda and water that is fermented for several hours. The fermented batter is then poured in concentric circles in hot oil and deep-fried. These fried spirals are then soaked in a flavored sugar syrup and served.",
+        "rating": "5"
+      },
+      {
+        "recipeId": 66,
+        "Chef Picture": "https://i.ibb.co/GHLQCbn/salah-Uddin.jpg",
+        "Chef Name": "salah Uddin",
+        "Years of experience": "9 years",
+        "Numbers of recipes": "678",
+        "Likes": "6 million",
+        "recipe name": "Gorur Vuri Bhaja",
+        "ingredients": "Cow Belly/Bhuri - 1 kg , Onion chopped - 1 cup, Onion paste - 1/3 cup, Ginger paste - 1 tbsp ,Garlic paste - 1 tbsp",
+        "cooking method": "Wash the belly well after bringing it from the market. Now boil the cow belly for 10-15 minutes with 2 cups of water and 1 teaspoon of turmeric in a pan to remove the smell. For this keep the stove on high heat. No need to add more water. There are two benefits to cooking in this way. One is that the odor will come out from the stomach and the dirt attached to the stomach will also be removed. Now wash the belly again properly. After washing, grind to a slightly larger size for cooking. The pieces will become smaller after cooking.",
+        "rating": "5"
+      },
+      {
+        "recipeId": 66,
+        "Chef Picture": "https://i.ibb.co/GHLQCbn/salah-Uddin.jpg",
+        "Chef Name": "salah Uddin",
+        "Years of experience": "9 years",
+        "Numbers of recipes": "678",
+        "Likes": "6 million",
+        "recipe name": "falooda",
+        "ingredients": "milk, noodles, sugar, chocolate syrap, sweet besel sweets",
+        "cooking method": " It has origins in the Persian dish faloodeh, variants of which are found across West, Central, and South Asia. Traditionally it is made by mixing rose syrup, vermicelli, and sweet basil seeds with milk, often served with ice cream.",
+        "rating": "5"
+      }
+]
