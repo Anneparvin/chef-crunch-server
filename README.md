@@ -11,13 +11,12 @@ This Projects is developed by Forida Parven Anne
 8. 
 9. 
 
+## Live Site Link
+https://chef-krunch.web.app
+
 ## Vercel Link
  https://chef-krunch-server.vercel.app
 
-## Live Site Link
-      
-
-
 ## Github Link
-Client Side: 
-Server Side: 
+Client Side: https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-client-side-Anneparvin
+server side: https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-server-side-Anneparvin
